@@ -14,3 +14,7 @@ Foodzee, your ultimate food ordering website, brings the flavors you crave to yo
 **Table Booking Assistance:** Easily book tables at your preferred restaurants through YumBot.
 
 **Query Responses:** Ask YumBot any food-related questions, and it will provide informative and helpful answers.
+
+
+https://github.com/h-a-r-i-n-i-1812/YumBot-A-Food-Bot/assets/126183179/302079b8-8910-4f4e-960b-e647be8157f3
+
