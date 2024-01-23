@@ -1,20 +1,20 @@
-# YumBot-A-Food-Bot
-Foodzee, your ultimate food ordering website, brings the flavors you crave to your fingertips. Yumbot, the intuitive chat assistant, ensures a seamless and delightful ordering experience.
-
-**Features**
-
-**Local Food Recommendations:** Discover famous local dishes based on your current location.
-
-**Top Selling Continental Centers:** Get recommendations for the best continental cuisine centers in your area.
-
-**Offers and Discounts:** Stay updated on the latest offers and discounts from your favorite restaurants.
-
-**Pre-order**: Place food orders in advance to save time and enjoy a seamless dining experience.
-
-**Table Booking Assistance:** Easily book tables at your preferred restaurants through YumBot.
-
-**Query Responses:** Ask YumBot any food-related questions, and it will provide informative and helpful answers.
 
 
-https://github.com/h-a-r-i-n-i-1812/YumBot-A-Food-Bot/assets/126183179/302079b8-8910-4f4e-960b-e647be8157f3
+# YumBot-A-Food-Bot 🍔🤖
+
+Welcome to Foodzee, your ultimate food ordering website! YumBot, the intuitive chat assistant, ensures a seamless and delightful ordering experience.
+
+## Features 🌟
+
+1. **Local Food Recommendations:** Discover famous local dishes based on your current location. 📍
+
+2. **Top Selling Continental Centers:** Get recommendations for the best continental cuisine centers in your area. 🌐
+
+3. **Offers and Discounts:** Stay updated on the latest offers and discounts from your favorite restaurants. 💰
+
+4. **Pre-order:** Place food orders in advance to save time and enjoy a seamless dining experience. ⏰
+
+5. **Table Booking Assistance:** Easily book tables at your preferred restaurants through YumBot. 🍽️
+
+6. **Query Responses:** Ask YumBot any food-related questions, and it will provide informative and helpful answers. ❓🍕
 
